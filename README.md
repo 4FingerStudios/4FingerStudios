@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @TechnicalPlaytime
-- 👀 I’m interested in Building the community stronger
+
+
+# 👻 About Me
+
 - 🌱 I’m currently learning C ++ 
-- 💞️ I’m looking to collaborate on Project Playtime (Plus)
-- 📫 How to reach me on discord at "sillyvr"
-- 😄 Pronouns: He/him
 
 
-<!---
-TechnicalPlaytime/TechnicalPlaytime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+Name...................:  @TechnicalPlaytime
+Age....................:  16 years old
+Pronouns...............:  He/Him
+Mostly programming in..:  C++
+Intrests..............:  Cybersecurity, Gaming,
+                          Programming, Pentesting,
+                          Data Mining, Game building, Ect
+Socials................:
+  Discord..............: @sillyvr
+  GitHub...............: @TechnicalPlaytime
+  Reddit...............: @u/TechPlaytime 
+```
