@@ -6,7 +6,7 @@
 
 
 ```
-Name...................:  @TechnicalPlaytime
+Name...................:  @4FingerStudios
 Age....................:  16 years old
 Pronouns...............:  He/Him
 Mostly programming in..:  C++
