@@ -7,7 +7,7 @@
 
 ```
 Name...................:  @4FingerStudios
-Age....................:  16 years old
+Age....................:  17 years old
 Pronouns...............:  He/Him
 Mostly programming in..:  C++
 Intrests..............:  Cybersecurity, Gaming,
@@ -15,6 +15,6 @@ Intrests..............:  Cybersecurity, Gaming,
                           Data Mining, Game building, Ect
 Socials................:
   Discord..............: @sillyvr
-  GitHub...............: @TechnicalPlaytime
-  Reddit...............: @u/TechPlaytime 
+  GitHub...............: @4FingerStudios
+  Reddit...............: @u/4FingerStudios
 ```
