@@ -7,7 +7,7 @@
 
 ```
 Name...................:  @4FingerStudios
-Age....................:  17 years old
+
 Pronouns...............:  He/Him
 Mostly programming in..:  C++
 Intrests..............:  Cybersecurity, Gaming,
