@@ -7,7 +7,6 @@
 
 ```
 Name...................:  @4FingerStudios
-
 Pronouns...............:  He/Him
 Mostly programming in..:  C++
 Intrests..............:  Cybersecurity, Gaming,
