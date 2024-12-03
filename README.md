@@ -1,6 +1,6 @@
 
 
-# 👻 About Me
+#  About Me
 
 - 🌱 I’m currently learning C ++ 
 
@@ -13,7 +13,7 @@ Intrests..............:  Cybersecurity, Gaming,
                           Programming, Pentesting,
                           Data Mining, Game building, Ect
 Socials................:
-  Discord..............: @sillyvr
+  Discord..............: @.devsilly
   GitHub...............: @4FingerStudios
   Reddit...............: @u/4FingerStudios
 ```
