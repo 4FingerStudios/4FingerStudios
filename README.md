@@ -1,15 +1,11 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/4FingerStudios/4FingerStudios/main/assets/banner.png" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 10px; margin-bottom: 20px;">
-</div>
-
 <h1 align="center">
   <a href="https://github.com/4FingerStudios">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=4FingerStudios;Builder+%7C+Breaker+%7C+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Zander+Minnick;Builder+%7C+Breaker+%7C+Learner" alt="Typing SVG" />
   </a>
 </h1>
 
 <div align="center">
-  <a href="https://discord.com/users/.devsilly">
+  <a href="https://discord.com/users/4fs.sillydev">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://github.com/4FingerStudios">
@@ -27,7 +23,8 @@
 ```cpp
 class Developer {
 private:
-    std::string name = "4FingerStudios";
+    std::string name = "Zander Minnick";
+    std::string handle = "4FingerStudios";
     std::string pronouns = "He/Him";
     std::string primaryLanguage = "C++";
     
@@ -48,7 +45,7 @@ public:
 ## :rocket: Skills & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,html,css,git,linux,vscode" alt="Skills" style="margin-bottom: 20px;">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css,git,vscode" alt="Skills" style="margin-bottom: 20px;">
 </div>
 
 ### :shield: Cybersecurity & Pentesting
@@ -62,19 +59,6 @@ public:
 ### :brain: Data & Analytics
 - **Data Mining** | **Machine Learning** | **Statistical Analysis**
 - **Data Visualization** | **Pattern Recognition**
-
----
-
-## :fire: GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4FingerStudios&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4FingerStudios&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4FingerStudios&theme=tokyonight&border_radius=10" alt="Streak Stats" style="margin-top: 20px;">
-</div>
 
 ---
 
@@ -100,11 +84,11 @@ public:
 ## :mailbox: Get In Touch
 
 <div align="center">
-  <a href="https://discord.com/users/.devsilly">
-    <img src="https://img.shields.io/badge/Discord-@.devsilly-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <a href="https://discord.com/users/4fs.sillydev">
+    <img src="https://img.shields.io/badge/Discord-@4fs.sillydev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="mailto:4fingerstudios@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:sillydev@4fingerstudios">
+    <img src="https://img.shields.io/badge/Email-sillydev%404fingerstudios-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
