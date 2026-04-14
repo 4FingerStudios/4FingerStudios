@@ -64,12 +64,17 @@ public:
 
 ## :hammer_and_wrench: Projects
 
+### :studio: Web Projects
+- **[4FingerStudios](https://4fingerstudios.com)** - Main studio website and portfolio
+- **[Bugnanza Studios](https://bugnanzastudios.com/)** - Game development studio and projects
+- **[Indie Horror Talk](https://indiehorrortalk.com)** - Community blog for indie horror game enthusiasts
+
 ### :lock: Cybersecurity Tools
 - **Network Scanner** - Advanced network reconnaissance tool
 - **Password Cracker** - Multi-algorithm password recovery suite
 - **Vulnerability Scanner** - Automated security assessment platform
 
-### :joystick: Game Projects
+### :joystick: Game Development
 - **Retro Engine** - 2D game engine built from scratch
 - **Cyber Defense** - Tower defense game with security themes
 - **Pixel Adventure** - Classic RPG with modern mechanics
